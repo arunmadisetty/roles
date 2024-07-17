@@ -4,7 +4,7 @@
       launch_specification:
         image_id: ami-0900fe555666598a2
         key_name: arun-1
-        security_group_ids: sg-0c51ed3484432fe7f
+        security_group_ids: sg-04d715937b2d2fec4
         instance_type: t2.micro
         block_device_mappings:
           - device_name: /dev/sdb
