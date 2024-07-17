@@ -3,7 +3,7 @@
   amazon.aws.ec2_spot_instance:
       launch_specification:
         image_id: ami-0900fe555666598a2
-        key_name: arun-1
+        key_name: arun-ohio
         security_group_ids: sg-04bae3648b5ddd46d
         instance_type: t2.micro
         block_device_mappings:
